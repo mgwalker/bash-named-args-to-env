@@ -1,0 +1,1 @@
+echo $DOWNSTREAM_VAR
